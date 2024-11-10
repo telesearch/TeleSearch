@@ -59,10 +59,6 @@ If you encounter any issues or have any questions, please reach out to us:
 
 - [Email Support](mailto:telesearch.me@gmail.com)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for using TeleSearch! We hope you enjoy discovering and connecting with new Telegram communities.
