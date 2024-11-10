@@ -17,11 +17,8 @@ TeleSearch simplifies the process of finding and connecting with Telegram commun
 
 ## Getting Started
 
-To start using TeleSearch, follow these steps:
+To start using TeleSearch, Open TeleSearch Telegram Mini App via this link: [TeleSearch Bot](https://t.me/telesearchmebot/telesearch)
 
-1. Open Telegram and search for the TeleSearch bot: [TeleSearch Bot](https://t.me/telesearchmebot/telesearch)
-2. Click "Start" to begin using the bot.
-3. Use the search function to find channels and groups that interest you.
 
 ## Usage
 
