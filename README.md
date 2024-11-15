@@ -1,4 +1,4 @@
-# TeleSearch
+# TeleSearch (Telegram Search)
 
 Welcome to TeleSearch, the Telegram Mini App designed to help you effortlessly discover and join Telegram channels and groups that match your interests.
 
