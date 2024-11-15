@@ -6,7 +6,7 @@ Welcome to TeleSearch, the Telegram Mini App designed to help you effortlessly s
 
 TeleSearch simplifies the process of finding and connecting with Telegram communities. With a user-friendly interface, you can explore various categories and topics to discover the best channels and groups.
 
-- [TeleSearch Website](https://telesearch.me/)
+- [TeleSearch (Telegram Search) Website](https://telesearch.me/)
 
   
 ## Features
