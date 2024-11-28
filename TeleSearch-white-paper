@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="TeleSearch white paper: Revolutionizing Telegram Search with TSCH tokens, keyword staking, and blockchain-powered transparency.">
+    <meta name="author" content="TeleSearch Team">
+    <title>TeleSearch White Paper</title>
+</head>
+<body>
+    <header>
+        <h1>TeleSearch White Paper</h1>
+    </header>
+
+    <section id="executive-summary">
+        <h2>Executive Summary</h2>
+        <p>TeleSearch is an innovative Telegram Mini App designed to streamline the discovery of Telegram channels, groups, and bots. By offering an intuitive, user-friendly interface and leveraging blockchain technology through the $TeleSearch Token (TSCH), TeleSearch revolutionizes how users connect with Telegram communities while creating rewarding opportunities for engagement.</p>
+        <p>With its growing ecosystem, including the TeleSearch Mini App, community channels, and blockchain integrations, TeleSearch is positioned to enhance both user experience and advertiser visibility within the Telegram platform.</p>
+    </section>
+
+    <section id="key-features">
+        <h2>Key Features</h2>
+        <ul>
+            <li><strong>Search Simplified:</strong> The TeleSearch Mini App makes it easy to explore Telegram’s vast landscape by categorizing content and enabling keyword searches.</li>
+            <li><strong>Community Engagement:</strong> Users can join the <a href="https://t.me/telesearchme">TeleSearch Community Channel</a> to stay updated and connect with like-minded individuals.</li>
+            <li><strong>Incentives with $TeleSearch Token (TSCH):</strong> Earn and utilize TSCH tokens for activities such as contributing to the platform or staking for advertising opportunities.</li>
+            <li><strong>Blockchain-Powered Transparency:</strong> TSCH, hosted on the TON Blockchain, ensures secure and transparent transactions, accessible via <a href="https://tonviewer.com/EQDs1QDEXSdRsDARaOVjuk1051FuJCGNjE5TJSxcVZLTnt66">TON Viewer</a>.</li>
+            <li><strong>Seamless Access:</strong> A comprehensive platform accessible through the website (<a href="https://telesearch.me">telesearch.me</a>) and Telegram integrations.</li>
+        </ul>
+    </section>
+
+    <section id="why-telesearch">
+        <h2>Why TeleSearch?</h2>
+        <p>In today’s digital world, Telegram has become a central platform for millions of users to connect, share ideas, and explore content. However, finding the right Telegram channels, groups, or bots is often a challenge due to limited search functionalities and a lack of visibility for smaller or niche communities. This gap in the Telegram ecosystem inspired the creation of TeleSearch, a Telegram Mini App that aims to simplify discovery and improve engagement within the platform.</p>
+    </section>
+
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <p>The $TeleSearch Token (TSCH) is the backbone of the TeleSearch platform, driving its functionality, rewards system, and advertising capabilities. Built on the TON Blockchain, TSCH ensures a transparent, secure, and scalable tokenized ecosystem for users, advertisers, and community managers.</p>
+        <ul>
+            <li><strong>Keyword Staking:</strong> Advertisers stake TSCH tokens to secure premium placement in search results for specific keywords.</li>
+            <li><strong>User Rewards:</strong> Users earn TSCH tokens through activities like browsing, referrals, and contributing to the platform.</li>
+            <li><strong>Platform Sustainability:</strong> TSCH supports platform development and operations, ensuring long-term growth.</li>
+        </ul>
+    </section>
+
+    <section id="roadmap">
+        <h2>Product Roadmap</h2>
+        <ol>
+            <li><strong>Phase I:</strong> Launch of the TeleSearch Mini App, categorized search, and community channel.</li>
+            <li><strong>Phase II:</strong> Keyword staking for advertisers, enhanced user rewards, and marketing campaigns.</li>
+            <li><strong>Phase III:</strong> Advanced analytics, mobile apps, and multi-language support.</li>
+            <li><strong>Phase IV:</strong> Governance and decentralization with DAO integration.</li>
+            <li><strong>Phase V:</strong> Cross-platform integration, global partnerships, and premium features.</li>
+        </ol>
+    </section>
+
+    <section id="conclusion">
+        <h2>Conclusion</h2>
+        <p>TeleSearch represents the future of search and discovery within the Telegram ecosystem, combining blockchain technology, user-centric design, and tokenized incentives to create a platform that benefits everyone—users, advertisers, and the broader Telegram community.</p>
+        <p>As TeleSearch grows, its mission remains clear: to redefine how users connect with communities, advertisers achieve visibility, and the Telegram ecosystem evolves. Together, with the power of the $TeleSearch Token and the support of its users and partners, TeleSearch will transform Telegram into a more vibrant, accessible, and rewarding digital space for all.</p>
+    </section>
+
+    <footer>
+        <p>Join the community: <a href="https://t.me/telesearchme">TeleSearch Community Channel</a></p>
+    </footer>
+</body>
+</html>
